@@ -1,4 +1,4 @@
-![](gh_banner.png)
+![](./banner_gh.png)
 
 # Coming Soon
 
