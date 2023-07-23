@@ -1,4 +1,4 @@
-![](./banner_gh.png)
+![](https://github.com/moddedmc-wiki/.github/blob/main/profile/banner_gh.png?raw=true)
 
 # Coming Soon
 
