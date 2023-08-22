@@ -1,9 +1,9 @@
 ![](https://github.com/moddedmc-wiki/.github/blob/main/profile/banner_gh.png?raw=true)
 
-# Coming Soon
+# Modded Minecraft Wikis
 
-moddedmc.wiki is currently in development.
+We are a group of people that are interested in making modding for Minecraft: Java Edition easier to understand and more accessible to begin.
 
-## When will it be ready?
-
-Currently, the [Fabric Modding Wiki](https://fabric.moddedmc.wiki) is currently available. However, the main site is not available at the moment.
+- [Main Site](https://moddedmc.wiki/)
+- [Fabric Modding Wiki](https://fabric.moddedmc.wiki/)
+- [Forge Modding Wiki (Gemwire)](https://forge.moddedmc.wiki/)
